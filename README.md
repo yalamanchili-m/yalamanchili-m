@@ -1,10 +1,6 @@
 # Hi, I'm Manvitha
 
-I’m fascinated by the systems beneath the surface — the processes, decisions, and interactions that turn ideas into working solutions and create meaningful value.
-
-My interests span software engineering, artificial intelligence, backend systems, and data-driven applications. I enjoy breaking down complex problems, understanding how their components interact, and building solutions that bring those moving parts together.
-
-Currently pursuing a B.E. in Computer Science at CBIT, Hyderabad, I’m particularly interested in agentic AI, LLM engineering, intelligent automation, and the intersection of technology and human interaction.
+I’m fascinated by the systems beneath the surface — the processes, decisions, and interactions that turn ideas into working solutions and create meaningful value. I enjoy breaking down complex problems, understanding how their components interact, and building solutions that bring those moving parts together. I’m particularly interested in agentic AI, LLM engineering, intelligent automation, and the intersection of technology and human interaction.
 
 **Computer Science | Artificial Intelligence | Human-Computer Interaction**
 
